@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590016303 source:d:\university\data structures\myproj\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"proj3.h"
+
+1590016511 d:\university\data structures\myproj\tree\proj3.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
